@@ -1,0 +1,16 @@
+PODS:
+  - SegmentedMenu (0.1.0)
+
+DEPENDENCIES:
+  - SegmentedMenu (from `../`)
+
+EXTERNAL SOURCES:
+  SegmentedMenu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SegmentedMenu: 4a25e85fd382a7a7e249685449af8093ddc1c7cc
+
+PODFILE CHECKSUM: abbb132c8497e0678834a0e85274e2711e794411
+
+COCOAPODS: 1.11.3

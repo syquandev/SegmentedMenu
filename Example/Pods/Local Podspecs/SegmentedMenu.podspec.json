@@ -1,0 +1,27 @@
+{
+  "name": "SegmentedMenu",
+  "version": "0.1.0",
+  "summary": "A short description of SegmentedMenu.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/95286760/SegmentedMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "95286760": "lasyquan@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/95286760/SegmentedMenu.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SegmentedMenu/Classes/**/*",
+  "resource_bundles": {
+    "SegmentedMenu": [
+      "SegmentedMenu/Assets/**/*"
+    ]
+  }
+}

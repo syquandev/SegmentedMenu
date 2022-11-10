@@ -1,0 +1,6 @@
+framework module SegmentedMenu {
+  umbrella header "SegmentedMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
