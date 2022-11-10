@@ -22,7 +22,7 @@ pod 'SegmentedMenu'
 
 ## Author
 
-95286760, lasyquan@gmail.com
+syquandev@gmail.com
 
 ## License
 
