@@ -17,7 +17,7 @@ SegmentedMenu is available through [CocoaPods](https://cocoapods.org). To instal
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'SegmentedMenu'
+pod 'SegmentedMenu', git 'https://github.com/syquandev/SegmentedMenu/tree/master'
 ```
 
 ## Author
